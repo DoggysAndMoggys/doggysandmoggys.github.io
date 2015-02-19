@@ -1,0 +1,17 @@
+.open .dropdown-toggle {
+    border-color: #337ab7 !important;
+    background-color: transparent !important;
+}
+
+.dropdown-menu {
+    background-color: #333;
+}
+
+.dropdown-menu > li > a {
+    color: #fff;
+}
+
+.well {
+    background-color: rgba(21,21,21,0.25);
+    border: 1px solid rgba(29, 29, 29, 0.25);
+}
