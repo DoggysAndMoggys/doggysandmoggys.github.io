@@ -1,9 +1,13 @@
 .navbar-default {
-    background: transparent;
+    background-color: #222222;
+}
+
+.navbar-collapse {
+    background-color: #222222;
 }
 
 .dropdown-menu {
-    background-color: #2f2f2f;
+    background-color: #222222;
 }
 
 .dropdown-menu>li>a {
