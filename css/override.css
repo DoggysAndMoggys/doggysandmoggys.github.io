@@ -1,0 +1,19 @@
+.navbar-default {
+    background: transparent;
+}
+
+.dropdown-menu {
+    background-color: #2f2f2f;
+}
+
+.dropdown-menu>li>a {
+    color: white;
+}
+
+.dropdown-menu>li>a:hover, a:focus {
+    background-color: #414141 !important;
+}
+
+.container-main {
+    margin-top: 80px;
+}
