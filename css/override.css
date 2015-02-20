@@ -21,3 +21,7 @@
 .container-main {
     margin-top: 80px;
 }
+
+.container-main > div {
+    margin-bottom: 20px;
+}
