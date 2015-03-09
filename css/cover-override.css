@@ -21,3 +21,9 @@
     background-position: center;
     background-size: cover;
 }
+
+@media (max-width: 992px) {
+    .home-bg {
+        background-image: url("../img/front_bg_fx_small.png");
+    }
+}
